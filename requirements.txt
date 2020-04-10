@@ -56,4 +56,3 @@ wcwidth==0.1.7
 Werkzeug==0.16.0
 whitenoise==5.0.1
 wrapt==1.11.2
-wxPython==4.0.7.post2
