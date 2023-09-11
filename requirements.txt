@@ -41,7 +41,7 @@ pylint-celery==0.3
 pylint-django==2.0.10
 pylint-flask==0.6
 pylint-plugin-utils==0.6
-pyo==1.0.1
+pyo==1.0.3
 pytz==2019.3
 PyYAML==5.1.2
 requirements-detector==0.6
